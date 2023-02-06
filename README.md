@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there from Hamburg 👋
 
 I’m currently learning Web Development.
 
