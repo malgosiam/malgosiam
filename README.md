@@ -1,6 +1,4 @@
-### Hi there from Hamburg 👋
-
-I’m currently learning Web Development.
+### Hi there 👋
 
 Like :
 - 🐣 code
