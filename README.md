@@ -7,7 +7,7 @@ Like :
 - 🐱 design
 - 🦉 architecture
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malgosiam)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malgosiam&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Malgorzata's GitHub stats](https://github-readme-stats.vercel.app/api?username=malgosiam&theme=tokyonight&show_icons=true)
 
