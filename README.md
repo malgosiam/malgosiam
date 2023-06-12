@@ -7,7 +7,7 @@ Like :
 - 🐱 design
 - 🦉 architecture
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Malgorzata's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 ![link](https://media3.giphy.com/avatars/Felini/ukfEXZ6hEnNu.gif)
