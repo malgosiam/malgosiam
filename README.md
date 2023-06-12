@@ -7,7 +7,7 @@ Like :
 - 🐱 design
 - 🦉 architecture
 
-![Malgorzata's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+![Malgorzata's GitHub stats](https://github-readme-stats.vercel.app/api?username=malgosiam&theme=tokyonight&show_icons=true)
 
 
 ![link](https://media3.giphy.com/avatars/Felini/ukfEXZ6hEnNu.gif)
