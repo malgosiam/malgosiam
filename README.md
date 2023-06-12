@@ -9,7 +9,7 @@ Like :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malgosiam&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-![Malgorzata's GitHub stats](https://github-readme-stats.vercel.app/api?username=malgosiam&theme=tokyonight&show_icons=true)
+![Malgorzata's GitHub stats](https://github-readme-stats.vercel.app/api?username=malgosiam&theme=tokyonight&rank_icon=github&show_icons=true)
 
 
 ![link](https://media3.giphy.com/avatars/Felini/ukfEXZ6hEnNu.gif)
